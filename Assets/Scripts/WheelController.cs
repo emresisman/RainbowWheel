@@ -6,7 +6,7 @@ namespace rainbowwheel
 {
     public class WheelController : MonoBehaviour
     {
-        private float rotateSpeed = 500f;
+        private float rotateSpeed = 750f;
         private float wheelPositionY = -3.5f;
         private float wheelPositionLimitX = 1.5f;
         private Vector2 lastFrameTouchPosition;
